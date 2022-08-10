@@ -80,7 +80,9 @@ section {
 section h2 {
     /*background-color: #FF7F50;*/
     /*background-color:#08ad47;*/
-    background-image: linear-gradient(45deg, #00BAB1, #00C483, #08AD47, #00C414);
+    /*background-image: linear-gradient(45deg, #00BAB1, #00C483, #08AD47, #00C414);*/
+    background-image: linear-gradient(45deg, #61ba8f, #67DBA3, #66c47c, #6edb67, #90d162);
+    
     background-attachment: fixed;
     padding: 8px 16px;
     text-align: center;
