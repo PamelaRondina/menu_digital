@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #FEEDD5;
+    background-color:	#EEE8AA;
     font-family: 'Oswald', sans-serif;
     /*'Roboto Mono', monospace,*/ 
 }
@@ -46,7 +46,7 @@ header h1 {
     
 
 header h1 span {
-    color: #995000;
+    color:#FF4500;
 }
 
 header p {
@@ -61,7 +61,7 @@ section {
 }
 
 section h2 {
-    background-color: #FED7AA;
+    background-color: #FFD700;
     padding: 8px 16px;
     text-align: center;
 
