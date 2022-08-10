@@ -2,7 +2,7 @@ Olá! 😊
 
 Sou iniciante no mundo da programação e este é o meu primeiro projeto em Html e CSS. 🤩 Bora para mais uma aventura! 🚀 🌟
 
-Veja o resultado deste projeto:
+Veja o resultado deste projeto pelo QR Code abaixo, ou pelo [LINK](https://relaxed-haupia-b9e61f.netlify.app/)
 
 ![image](https://user-images.githubusercontent.com/108991648/183966304-814862f2-17fd-4145-8ac0-312d3cb3fb6c.png)
 
