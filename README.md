@@ -1,8 +1,12 @@
 Olá! 😊
 
-Sou iniciante no mundo da programação e este é o meu primeiro projeto em Html e CSS. 🤩
+Sou iniciante no mundo da programação e este é o meu primeiro projeto em Html e CSS. 🤩 Bora para mais uma aventura! 🚀 🌟
 
-Bora para mais uma aventura! 🚀 🌟
+Veja o resultado deste projeto pelo QR Code abaixo, ou pelo [LINK](https://relaxed-haupia-b9e61f.netlify.app/)
+
+![image](https://user-images.githubusercontent.com/108991648/183966304-814862f2-17fd-4145-8ac0-312d3cb3fb6c.png)
+
+
 
 _______________
 
@@ -10,20 +14,20 @@ _______________
 
 Este projeto visa realizar um menu digital com QR Code, utilizaremos da tecnologia de Front-End com Html e CSS.
 
-**[Aula 01 - Iniciando nosso código](https://github.com/PamelaRondina/rocketseat_maratona_explorer_3#aula-01---iniciando-nosso-c%C3%B3digo-)**
+**[Aula 01 - Iniciando nosso código](https://github.com/PamelaRondina/menu_digital#aula-01---iniciando-nosso-c%C3%B3digo-)**
 
 - [x] O que é HTMl?
 - [x] Conhecendo sobre tag, sintaxes, atributos
 - [x] Iniciando o código
 
-**[Aula 02 - Vamos estilizar o programa](https://github.com/PamelaRondina/rocketseat_maratona_explorer_3#aula-02---vamos-estilizar-o-programa)**
+**[Aula 02 - Vamos estilizar o programa](https://github.com/PamelaRondina/menu_digital#aula-02---vamos-estilizar-o-programa)**
 
 - [x] O que é CSS?
 - [x] Conhecendo sobre declarações, comentários
 - [x] Colorir o projeto
 - [x] Adicionar e editando o box model
 
-**[Aula 03 - Fontes e textos ](https://github.com/PamelaRondina/rocketseat_maratona_explorer_3#aula-03---fontes-e-textos)**
+**[Aula 03 - Fontes e textos ](https://github.com/PamelaRondina/menu_digital#aula-03---fontes-e-textos)**
 
 - [x] Editando as fontes
 - [x] Utilizando o VS Code
@@ -32,7 +36,7 @@ Este projeto visa realizar um menu digital com QR Code, utilizaremos da tecnolog
 - [x] Gerar o QR Code
 - [x] Alterações no site   
 
-**[Novas metas!]()**
+**[Novas metas!](https://github.com/PamelaRondina/menu_digital#novas-metas)**
 
 Nesta etapa, vou incluir os próximos passos deste projeto.
 
@@ -817,8 +821,6 @@ Prontinho!
 ____________________
 
 
-Veja o resultado do meu projeto:
 
-![image](https://user-images.githubusercontent.com/108991648/183807150-7c869581-9a4c-43a4-85e9-0b187d723ead.png)
 
 
