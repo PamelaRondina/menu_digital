@@ -8,7 +8,7 @@ _______________
 
 # Maratona Explorer 3.0 - Rocketseat
 
-Este projeto tem como objetivo de realizar um menu digital com QR Code, utilizaremos da tecnologia de Front-End com Html e CSS.
+Este projeto visa realizar um menu digital com QR Code, utilizaremos da tecnologia de Front-End com Html e CSS.
 
 **[Aula 01 - Iniciando nosso código](https://github.com/PamelaRondina/rocketseat_maratona_explorer_3#aula-01---iniciando-nosso-c%C3%B3digo-)**
 
@@ -91,7 +91,7 @@ Vamos incluir novas tags entre o `<body>` e `</body>`
 No VSCode para visualizar no navegador:
 
 * Clique com o botão direito no nome do arquivo
-* Clique em "Shoe in Broser"
+* Clique em "Show in Browser"
 * Em seguida, o arquivo será aberto diretamente no navegador
 
 ![image](https://user-images.githubusercontent.com/108991648/183738057-5121a0d4-2398-4b96-9d9d-737e18996603.png)
@@ -207,7 +207,7 @@ body {
 ```
 > Neste exemplo, o body será de cor blue
 
-Porém, a cascata perde essa prioridade devido a especificidade, cada seletor terá um peso e sua soma trará a relevância de prioridade.
+Porém, a cascata perde essa prioridade devido à especificidade, cada seletor terá um peso e sua soma trará a relevância de prioridade.
 
 ```css
 #id {
