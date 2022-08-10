@@ -1,8 +1,12 @@
 Olá! 😊
 
-Sou iniciante no mundo da programação e este é o meu primeiro projeto em Html e CSS. 🤩
+Sou iniciante no mundo da programação e este é o meu primeiro projeto em Html e CSS. 🤩 Bora para mais uma aventura! 🚀 🌟
 
-Bora para mais uma aventura! 🚀 🌟
+Veja o resultado deste projeto:
+
+![image](https://user-images.githubusercontent.com/108991648/183966304-814862f2-17fd-4145-8ac0-312d3cb3fb6c.png)
+
+
 
 _______________
 
@@ -817,8 +821,6 @@ Prontinho!
 ____________________
 
 
-Veja o resultado do meu projeto:
 
-![image](https://user-images.githubusercontent.com/108991648/183807150-7c869581-9a4c-43a4-85e9-0b187d723ead.png)
 
 
