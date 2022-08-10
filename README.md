@@ -732,5 +732,18 @@ Pelo GitHub, dentro do repositório aperte o . (ponto), abrirá um editor. Aqui 
 
 ![image](https://user-images.githubusercontent.com/108991648/183787004-cf4ac5fb-326e-4309-841b-00915e5c0873.png)
 
-No Netlify será atualizado automaticamente
+No Netlify será atualizado automaticamente!  
+
+
+Prontinho, projeto finalizado com sucesso! 😁
+
+______________
+
+Veja o resultado do meu projeto:
+
+![image](https://user-images.githubusercontent.com/108991648/183796222-af62f7eb-a760-4ca6-b144-3baf4d141b5c.png)
+
+  
+
+
 
