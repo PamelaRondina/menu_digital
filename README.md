@@ -31,6 +31,11 @@ Este projeto visa realizar um menu digital com QR Code, utilizaremos da tecnolog
 - [x] Criando link de acesso ao site
 - [x] Gerar o QR Code
 - [x] Alterações no site   
+
+**[Adicionando novas metas!]()**
+
+- [x] Nesta etapa, vou incluir os próximos passos deste projeto.
+
 __________
 
 ## Instrutor
@@ -738,6 +743,14 @@ No Netlify será atualizado automaticamente!
 Prontinho, projeto finalizado com sucesso! 😁
 
 ______________
+
+## Adiocionando novas metas
+
+Nesta etapa, vou incluir os próximos passos deste projeto.
+
+### 
+____________________
+
 
 Veja o resultado do meu projeto:
 
