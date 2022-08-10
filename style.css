@@ -36,7 +36,8 @@ h1, h3, .price {
 h2 {
     fonte-family: Oswald, sans-serif;
     text-transform: uppercase;
-    color: #B81A12;
+    /*color: #B81A12;*/
+    color: #AD1109;
     /*color:darkolivegreen;*/
 }
 
