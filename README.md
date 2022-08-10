@@ -14,20 +14,20 @@ _______________
 
 Este projeto visa realizar um menu digital com QR Code, utilizaremos da tecnologia de Front-End com Html e CSS.
 
-**[Aula 01 - Iniciando nosso código](https://github.com/PamelaRondina/rocketseat_maratona_explorer_3#aula-01---iniciando-nosso-c%C3%B3digo-)**
+**[Aula 01 - Iniciando nosso código](https://github.com/PamelaRondina/menu_digital#aula-01---iniciando-nosso-c%C3%B3digo-)**
 
 - [x] O que é HTMl?
 - [x] Conhecendo sobre tag, sintaxes, atributos
 - [x] Iniciando o código
 
-**[Aula 02 - Vamos estilizar o programa](https://github.com/PamelaRondina/rocketseat_maratona_explorer_3#aula-02---vamos-estilizar-o-programa)**
+**[Aula 02 - Vamos estilizar o programa](https://github.com/PamelaRondina/menu_digital#aula-02---vamos-estilizar-o-programa)**
 
 - [x] O que é CSS?
 - [x] Conhecendo sobre declarações, comentários
 - [x] Colorir o projeto
 - [x] Adicionar e editando o box model
 
-**[Aula 03 - Fontes e textos ](https://github.com/PamelaRondina/rocketseat_maratona_explorer_3#aula-03---fontes-e-textos)**
+**[Aula 03 - Fontes e textos ](https://github.com/PamelaRondina/menu_digital#aula-03---fontes-e-textos)**
 
 - [x] Editando as fontes
 - [x] Utilizando o VS Code
@@ -36,7 +36,7 @@ Este projeto visa realizar um menu digital com QR Code, utilizaremos da tecnolog
 - [x] Gerar o QR Code
 - [x] Alterações no site   
 
-**[Novas metas!]()**
+**[Novas metas!](https://github.com/PamelaRondina/menu_digital#novas-metas)**
 
 Nesta etapa, vou incluir os próximos passos deste projeto.
 
