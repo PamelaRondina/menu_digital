@@ -6,11 +6,8 @@
 }
 
 body {
-    /*background-image: url(pizza.jpg);*/
-    
+    background-image: url(pizza.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
-    
     background-color:	#EEE8AA;
     font-family: 'Oswald', sans-serif;
     /*'Roboto Mono', monospace,*/ 
@@ -27,7 +24,7 @@ ul {
 h1, h2, h3, .price {
     fonte-family: Oswald, sans-serif;
     text-transform: uppercase;
-    color:darkolivegreen;
+    color: #2d2c2a;
 }
 
 /*Header - Cabeçalho*/
