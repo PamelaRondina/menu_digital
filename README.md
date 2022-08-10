@@ -32,10 +32,12 @@ Este projeto visa realizar um menu digital com QR Code, utilizaremos da tecnolog
 - [x] Gerar o QR Code
 - [x] Alterações no site   
 
-**[Adicionando novas metas!]()**
+**[Novas metas!]()**
 
-- [x] Nesta etapa, vou incluir os próximos passos deste projeto.
+Nesta etapa, vou incluir os próximos passos deste projeto.
 
+- [x] Adicionando imagem
+- [x] Adicionando 
 __________
 
 ## Instrutor
@@ -744,11 +746,74 @@ Prontinho, projeto finalizado com sucesso! 😁
 
 ______________
 
-## Adiocionando novas metas
+## Novas metas
 
 Nesta etapa, vou incluir os próximos passos deste projeto.
 
-### 
+**Adicionando imagem** 
+
+Para este item, segui as dicas do [Prof: Guanabara](https://www.youtube.com/watch?v=1ZeettFfxys)
+
+> Lembre-se dos direitos autorais de imagem, busque por imagens liberadas!
+
+Recomendação|Sites
+:-|:-
+Pixabay | https://pixabay.com/pt/
+Emojipedia|https://www.emojipedia.org/
+
+Após analisar o seu projeto e identificar o local, tenha uma imagem salva em seu repositório do projeto, e vamos adicioná-la.
+
+Optei por incluir uma imagem entre o nome e horário de funcionamento, localizado no `header`
+
+- [x] `<span>` abrir tag genérica
+- [x] `img` adicinar e apertar enter
+- [x] `<img src="" alt="">` aparecerá automaticamente
+- [x] Dentro das aspas do `src` aperte Ctrl+Espaço e procure pelo nome do arquivo
+- [x] Dentro das aspas do `alt` inclua o nome do que se parece sua imagem
+- [x] `</span>` fechar tag genérica
+
+
+```html
+  <header>
+        <h1>Pizzaria <span>Sensações</span><span><img src="pizza_2.png" alt="imagem pizza"></span></h1>
+        <p>Aberto de terça-feira a domingo. 18h-23h</p>
+    </header>
+```
+
+![image](https://user-images.githubusercontent.com/108991648/183930061-f9b77339-85e4-4b29-8905-3e04e53d167b.png)
+
+**Adicionar favicon**
+
+Favicon é o ícone que aparece na guia do navegador
+
+![image](https://user-images.githubusercontent.com/108991648/183938708-be7b8236-d0c0-40cb-aff5-97d1516bc356.png)
+
+Podemos criar ícones nos sites abaixo:
+
+Recomendação|Sites
+:-|:-
+Favicon|https://www.favicon.cc/
+Favicon .io | https://favicon.io/
+
+Após escolher o ícone, salve o arquivo em seu repositório.
+
+Em `head`, acima de `title`, vamos incluir:
+
+- [x] `link favicon` e apertar enter
+- [x] Em `href=` deletar `favicon.ico` 
+- [x] Nas aspas de `href=` clique Ctrl+espaço e selecione o arquivo
+
+Prontinho!
+
+![image](https://user-images.githubusercontent.com/108991648/183939648-1cab4002-0f7a-4caf-a523-39e6d008a407.png)
+
+
+
+
+
+
+
+
 ____________________
 
 
