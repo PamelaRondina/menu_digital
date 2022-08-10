@@ -741,9 +741,6 @@ ______________
 
 Veja o resultado do meu projeto:
 
-![image](https://user-images.githubusercontent.com/108991648/183796222-af62f7eb-a760-4ca6-b144-3baf4d141b5c.png)
-
-  
-
+![image](https://user-images.githubusercontent.com/108991648/183807150-7c869581-9a4c-43a4-85e9-0b187d723ead.png)
 
 
