@@ -41,7 +41,8 @@ Este projeto visa realizar um menu digital com QR Code, utilizaremos da tecnolog
 Nesta etapa, vou incluir os próximos passos deste projeto.
 
 - [x] Adicionando imagem
-- [x] Adicionando 
+- [x] Adicionando favicon
+- [x] Alinhar texto do produto e valor
 __________
 
 ## Instrutor
@@ -817,7 +818,7 @@ Prontinho!
 
 ![image](https://user-images.githubusercontent.com/108991648/183939648-1cab4002-0f7a-4caf-a523-39e6d008a407.png)
 
-**Alinhar valores e Produto**
+**Alinhar texto do produto e valor**
 
 Conforme editava o texto do produto, percebia que o valor estava se descolando para a esquerda, não mantendo o texto justificado.
 Para resolver este enigma vamos, no arquivo CSS:
@@ -833,12 +834,6 @@ ul li {
     justify-content: space-between;
 }
 ```
-
-
-
-
-
-
 
 ____________________
 
