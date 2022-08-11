@@ -354,6 +354,8 @@ Vamos iniciar nossa estilização em `header - html`
         <p>Aberto todos os dias. 8h-21h</p>
     </header>
 ```
+No arquivo em CSS adicionar:
+
 - [x] `max-widht` largura máxima da caixa
 - [x] `border` borda, neste caso, apenas para visualizarmos onde estamos editando (vamos deletar)
 - [x] `margin-left: auto`e `margin-right: auto` vai centralizar a caixa
@@ -422,6 +424,8 @@ Este item está dentro de `section e h2` e o nome do subítulo de cada seção.
 
 ![image](https://user-images.githubusercontent.com/108991648/183703799-a60e64ac-0d6a-400f-947c-64054cd4cda2.png)
 
+No arquivo em CSS adicionar:
+
 - [X] `background-color` - altera o body deste item
 - [x] `padding` 8px cima/baixo 16px laterais
 - [x] `text-align:` central
@@ -444,6 +448,8 @@ section h2 {
 Este item entre a palavra **Brunch** e **Waffle**:
 
 ![image](https://user-images.githubusercontent.com/108991648/183704015-63f05ef4-f70b-407d-8497-8ac469c7d8bc.png)
+
+No arquivo em CSS adicionar:
 
 - [x] `margin-bottom` espaço abaixo
 
@@ -811,6 +817,22 @@ Prontinho!
 
 ![image](https://user-images.githubusercontent.com/108991648/183939648-1cab4002-0f7a-4caf-a523-39e6d008a407.png)
 
+**Alinhar valores e Produto**
+
+Conforme editava o texto do produto, percebia que o valor estava se descolando para a esquerda, não mantendo o texto justificado.
+Para resolver este enigma vamos, no arquivo CSS:
+
+- [x] `justify-content: space-between;` incluir
+
+Este item fará com que os dois elementos (texto e valor) fiquem com o espaço justificado.
+
+```css
+ul li {
+    margin-bottom: 16px;
+    display: flex;
+    justify-content: space-between;
+}
+```
 
 
 
